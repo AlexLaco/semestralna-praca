@@ -30,7 +30,8 @@ public class Main extends Application {
 
     public static void main(String[] args) {
 
-        launch(args);
+        //Stop gui
+        //launch(args);
 
         //New manager
         Manager PavTok = new Manager("Pavol Tokaček","PavTok","123");
